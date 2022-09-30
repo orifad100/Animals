@@ -1,5 +1,5 @@
 # Animal farms Project
-C++ project - Advanced programming course
+C++ project - Advanced programming course 1nd semester, 2nd year.
 
 This project was done as part of the “Advanced programming course”. the aim of the project is to develop a system using object oriented tools - such as polymorphism. This project is the The concluding project of the course. this project including modules such as:
 
